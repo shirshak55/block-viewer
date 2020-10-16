@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/substrate-front-end-template/static/js/main.928a14a7.chunk.js",
-    "main.js.map": "/substrate-front-end-template/static/js/main.928a14a7.chunk.js.map",
-    "runtime-main.js": "/substrate-front-end-template/static/js/runtime-main.3980f1c6.js",
-    "runtime-main.js.map": "/substrate-front-end-template/static/js/runtime-main.3980f1c6.js.map",
-    "static/css/2.e7da6630.chunk.css": "/substrate-front-end-template/static/css/2.e7da6630.chunk.css",
-    "static/js/2.1ce1fb52.chunk.js": "/substrate-front-end-template/static/js/2.1ce1fb52.chunk.js",
-    "static/js/2.1ce1fb52.chunk.js.map": "/substrate-front-end-template/static/js/2.1ce1fb52.chunk.js.map",
-    "index.html": "/substrate-front-end-template/index.html",
-    "precache-manifest.dbd5beb06d99954cd454daa972024d28.js": "/substrate-front-end-template/precache-manifest.dbd5beb06d99954cd454daa972024d28.js",
-    "service-worker.js": "/substrate-front-end-template/service-worker.js",
-    "static/css/2.e7da6630.chunk.css.map": "/substrate-front-end-template/static/css/2.e7da6630.chunk.css.map",
-    "static/js/2.1ce1fb52.chunk.js.LICENSE.txt": "/substrate-front-end-template/static/js/2.1ce1fb52.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/substrate-front-end-template/static/media/outline-icons.ef60a4f6.woff"
+    "main.js": "/block-viewer/static/js/main.d91e0a82.chunk.js",
+    "main.js.map": "/block-viewer/static/js/main.d91e0a82.chunk.js.map",
+    "runtime-main.js": "/block-viewer/static/js/runtime-main.685b412a.js",
+    "runtime-main.js.map": "/block-viewer/static/js/runtime-main.685b412a.js.map",
+    "static/css/2.b3019da9.chunk.css": "/block-viewer/static/css/2.b3019da9.chunk.css",
+    "static/js/2.45412e96.chunk.js": "/block-viewer/static/js/2.45412e96.chunk.js",
+    "static/js/2.45412e96.chunk.js.map": "/block-viewer/static/js/2.45412e96.chunk.js.map",
+    "index.html": "/block-viewer/index.html",
+    "precache-manifest.ce58d64e12cbdfd6e5843eea756d62d1.js": "/block-viewer/precache-manifest.ce58d64e12cbdfd6e5843eea756d62d1.js",
+    "service-worker.js": "/block-viewer/service-worker.js",
+    "static/css/2.b3019da9.chunk.css.map": "/block-viewer/static/css/2.b3019da9.chunk.css.map",
+    "static/js/2.45412e96.chunk.js.LICENSE.txt": "/block-viewer/static/js/2.45412e96.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/block-viewer/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.3980f1c6.js",
-    "static/css/2.e7da6630.chunk.css",
-    "static/js/2.1ce1fb52.chunk.js",
-    "static/js/main.928a14a7.chunk.js"
+    "static/js/runtime-main.685b412a.js",
+    "static/css/2.b3019da9.chunk.css",
+    "static/js/2.45412e96.chunk.js",
+    "static/js/main.d91e0a82.chunk.js"
   ]
 }
